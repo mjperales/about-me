@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome
 
-You can use the [editor on GitHub](https://github.com/mjperales/about-me/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi 👋🏾, I am a full-stack developer at TCU. Pronouns are she/her
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
 
-### Markdown
+_Web professional specializing in building user-friendly, accessible, and optimized web applications using a solid foundation that is progressively enhanced to provide core experiences across browsers._
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Skills
 
-```markdown
-Syntax highlighted code block
+HTML, CSS, SCSS, JavaScript, Command Line, GIT, Responsive Web Design, User Experience, Accessibility, JSON, Agile
+Methodologies, Node.js, SQL, C#, ASP.Net Core
 
-# Header 1
-## Header 2
-### Header 3
+# Projects
+[SuperFrog Scheduler](coming soon)
+- Created a Web API Application in ASP.Net Core that uses C# and Entity Framework
+- Designed MSSQL Relational database for application
+- Frontend is developed using React.js
 
-- Bulleted
-- List
+[TCU Password](https://password.tcu.edu)
+- Rewrite the Password web application from VB to C#
+- Used to update and unlock TCU credentials
 
-1. Numbered
-2. List
+[Course Transfer](https://coursetransfer.tcu.edu/)
+- Web API written in .Net Framework 4.7
+- Frontend is written in React.js
 
-**Bold** and _Italic_ and `Code` text
+[TCU Web Standards 2.0](https://tcu.edu)
+- Architected design system
 
-[Link](url) and ![Image](src)
-```
+[TCU Web Standards 1.0](https://brand.tcu.edu)
+- Architected design system
+- Developed WordPress Theme
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mjperales/about-me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
