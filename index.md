@@ -12,7 +12,7 @@ HTML, CSS, SCSS, JavaScript, Command Line, GIT, Responsive Web Design, User Expe
 Methodologies, Node.js, SQL, C#, ASP.Net Core
 
 # Projects
-[SuperFrog Scheduler](coming soon)
+[SuperFrog Scheduler](https://superfrog.tcu.edu/)
 - Created a Web API Application in ASP.Net Core that uses C# and Entity Framework
 - Designed MSSQL Relational database for application
 - Frontend is developed using React.js
